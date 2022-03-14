@@ -1,0 +1,3 @@
+azure-ai-anomalydetector==3.0.0b5
+pandas==1.4.0
+matplotlib==3.5.1
